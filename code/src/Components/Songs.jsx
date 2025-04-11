@@ -156,7 +156,7 @@ function Songs() {
 
     return (
       <div style={{display:"flex", justifyContent:"flex-end"}}>
-      <div className="songs-container" style={{width:"1300px"}}>
+      <div className="songs-container" style={{width:"1050px"}}>
         <div className="container mx-auto p-3">
           <h2 className="text-3xl font-semibold mb-4 text-center">Songs List</h2>
           <InputGroup className="mb-3">

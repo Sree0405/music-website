@@ -12,7 +12,7 @@ const Sidebar = () => {
        <div style={{marginTop:"35px"}}>
         
        <li>
-          <Link to="/songs">
+          <Link to="/">
           <p style={{paddingLeft:"10px"}}> <FaHome /> </p> <p style={{paddingLeft:"10px"}}>Home</p>
           </Link>
         </li>

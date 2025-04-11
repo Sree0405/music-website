@@ -15,10 +15,9 @@ function App() {
     <div>
     <Sidebar/>
     </div>
- 
           <div>
           <Routes>
-            <Route path='/songs' element={<Songs/>} />
+            <Route path='/' element={<Songs/>} />
             <Route path='/favorities' element={<Favorities/>} />
             <Route path='/playlist' element={<Playlist/>} />
            </Routes>

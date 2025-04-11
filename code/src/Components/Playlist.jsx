@@ -108,7 +108,7 @@ function Playlist() {
         <div className="container mx-auto p-8">
           <h2 className="text-3xl font-semibold mb-4 text-center">Playlist</h2>
          
-          <Table  responsive style={{width:"1150px"}} >
+          <Table  responsive style={{width:"1050px"}} >
             
             <thead >
               <tr>
